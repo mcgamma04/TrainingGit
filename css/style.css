@@ -1,0 +1,17 @@
+*{
+  padding:0;
+  margin:0;
+}
+.head{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: cadetblue;
+  padding:10px;
+  color:white;
+}
+.user{
+ border-radius: 50%;
+}
+.gallery{
+    background-color:darkgrey;
+    text-align: center;
+}

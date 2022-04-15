@@ -1,0 +1,7 @@
+links
+    types of links
+    1. relative
+    2. absolute links
+    3. intra page links
+
+    <a href="prince.html">prince</a>
